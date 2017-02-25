@@ -1,6 +1,7 @@
 # TeslaPlanner
 
 
+
 ## Models
 - User
 - Post
@@ -8,3 +9,8 @@
 
 ## Features
 - 
+
+## Model
+#Project collaborators:
+- Tyler & Jamie are the team for me
+
